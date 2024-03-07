@@ -1,6 +1,6 @@
 # listAkamaiProperty
 
-A simple nodejs script that fetches all properties' Property ID, Property Name, Hostname, Origin Hostname, CP Code, SiteShield Map under specified contract and group， and print result in csv format. 
+A simple nodejs script that fetches all properties' Property ID, Property Name, Hostname, Origin Hostname, CP Code, SiteShield Map under specified contract and group, and print result in csv format. 
 
 # Set up edgerc authentication
 
